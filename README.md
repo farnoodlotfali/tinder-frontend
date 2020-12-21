@@ -1,3 +1,7 @@
+tinder clone app with MERN.
+backend is here => https://github.com/farnoodlotfali/tinder-backend.
+you can see demo here => https://tinder-5365a.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

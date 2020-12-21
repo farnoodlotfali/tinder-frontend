@@ -1,5 +1,5 @@
 import { IconButton } from '@material-ui/core';
-import { Person } from '@material-ui/icons';
+import { Forum, Person } from '@material-ui/icons';
 import React from 'react';
 import './Header.css';
 const Header = () => {
@@ -13,6 +13,9 @@ const Header = () => {
         src='https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png'
         alt=''
       />
+      <IconButton aria-label='delete'>
+        <Forum fontSize='large' className='header__icon' />
+      </IconButton>
     </div>
   );
 };
